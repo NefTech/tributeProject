@@ -1,0 +1,22 @@
+body {
+  background-color:#e6f2ff;
+}
+h1 {
+  text-align: center;
+  color: #1a8cff;
+  font-size: 50px;
+  fon-family:;
+}
+p{
+  text-align: center;
+  color: #0099ff;
+  font-size: 25px;
+}
+.image {
+  text-align: center;
+}
+ul {
+  text-align:center;
+  color: blue;
+  font-size: 20px;
+}
